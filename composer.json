@@ -2,6 +2,7 @@
     "name": "xiaoheheyo/flarum-hello-world",
     "description": "Say hello to the world!",
     "type": "flarum-extension",
+    "license": "MIT",
     "require": {
         "flarum/core": "0.1.0-beta.8"
     },
