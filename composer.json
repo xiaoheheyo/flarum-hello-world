@@ -1,5 +1,5 @@
 {
-    "name": "acme/flarum-hello-world",
+    "name": "xiaoheheyo/flarum-hello-world",
     "description": "Say hello to the world!",
     "type": "flarum-extension",
     "require": {
